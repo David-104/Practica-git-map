@@ -9,7 +9,10 @@
             Console.ReadLine();
 
             Console.WriteLine("A");
+
             Console.WriteLine("Conflicto 1");
+
+            Console.WriteLine("a");
         }
     }
 }
